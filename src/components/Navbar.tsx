@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react'
-import { Icon } from './Icons'
+import { Icon } from './ui'
 
 const links = [
   { label: 'Home', href: '#home', id: 'home' },

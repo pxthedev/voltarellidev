@@ -1,12 +1,9 @@
 import { Navbar } from './components/Navbar'
 import { Hero } from './components/Hero'
-import { About } from './components/About'
-import { TechStack } from './components/TechStack'
+import { About, TechStack } from './components/About'
 import { Projects } from './components/Projects'
-import { GitHubSection } from './components/GitHubSection'
-import { CurrentlyBuilding } from './components/CurrentlyBuilding'
-import { Contact } from './components/Contact'
-import { Footer } from './components/Footer'
+import { GitHubSection, CurrentlyBuilding } from './components/GitHub'
+import { Contact, Footer } from './components/Contact'
 
 function App() {
   return (

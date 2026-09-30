@@ -1,5 +1,4 @@
-import { Icon } from './Icons'
-import { Reveal } from './Reveal'
+import { Icon, Reveal } from './ui'
 
 const chips = ['Java', 'Spring Boot', 'Security', 'APIs', 'SQL']
 
