@@ -9,7 +9,7 @@ const socials = [
   },
   {
     name: 'Instagram',
-    handle: '@voltarellidev',
+    handle: '@pevoltarelli',
     href: 'https://www.instagram.com/voltarellidev',
     icon: 'instagram' as const,
   },
